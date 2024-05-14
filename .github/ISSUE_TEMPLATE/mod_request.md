@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 ## Mod Details
-- Mod Name: [Enter the name of the mod]
-- Mod Link: [Provide a link to the mod's page (e.g., CurseForge, GitHub)]
+- Mod Name: 
+- Mod Link: 
 
 ## Reason for Update
 [Provide a detailed explanation of why you think this mod should be updated in the modpack.]
