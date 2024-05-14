@@ -17,4 +17,4 @@ assignees: ''
 [If applicable, include screenshots or videos to help explain the bug or issue.]
 
 ## Additional Information
-[Ass any additional information or context that might be helpful.]
+[Include any additional information or context that might be helpful.]
