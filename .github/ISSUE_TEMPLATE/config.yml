@@ -1,17 +1,17 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Mod Request
-    url: https://github.com/DeadLector/TchicX-Modpack/issues/new?template=mod_suggestion.md
-    about: Suggest a new mod, update, or change to the modpack.
   - name: Bug Report
-    url: LINKS
-    about: Report a bug or issue with the modpack.
+	  url: https://github.com/DeadLector/TchicX-Modpack/blob/main/.github/ISSUE_TEMPLATE/bug_report.md
+	  about: Report a bug or issue with the modpack.
+  - name: Mod Request
+    url: https://github.com/DeadLector/TchicX-Modpack/blob/main/.github/ISSUE_TEMPLATE/mod_request.md
+    about: Suggest a new mod, update, or change to the modpack.
+  - name: Mod Removal or Replacemnt
+	  url: https://github.com/DeadLector/TchicX-Modpack/blob/main/.github/ISSUE_TEMPLATE/mod_removal_replacement.md
+	  about: Suggest a mod to be removed and/or replaced in the modpack.
   - name: Setting Change
-    url: LINKS
-    about: Suggest an option/config/etc change in an existing mod or tool.
-  - name: Mod Removal
-    url: LINKS
-    about: Suggest a mod to be removed.
-  - name: Questions and Support
-    url: LINKS
-    about: General questions or support regarding the modpack.
+	  url: https://github.com/DeadLector/TchicX-Modpack/blob/main/.github/ISSUE_TEMPLATE/setting_change.md
+	  about: Suggest a change to the modpack's settings or configurations.
+  - name: General Question
+	  url: https://github.com/DeadLector/TchicX-Modpack/blob/main/.github/ISSUE_TEMPLATE/questions.md
+	  about: Ask questions or seek clarification about the modpack.
