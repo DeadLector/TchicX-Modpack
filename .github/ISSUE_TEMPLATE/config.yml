@@ -1,11 +1,17 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Mod Suggestion
+  - name: Mod Request
     url: https://github.com/DeadLector/TchicX-Modpack/issues/new?template=mod_suggestion.md
-    about: Suggest a new mod, update, or change to the modpack
+    about: Suggest a new mod, update, or change to the modpack.
   - name: Bug Report
-    url: https://github.com/DeadLector/TchicX-Modpack/issues/new?template=bug_report.md
-    about: Report a bug or issue with the modpack
-  - name: Other
-    url: https://github.com/DeadLector/TchicX-Modpack/issues/new
-    about: For any other inquiries or suggestions
+    url: LINKS
+    about: Report a bug or issue with the modpack.
+  - name: Setting Change
+    url: LINKS
+    about: Suggest an option/config/etc change in an existing mod or tool.
+  - name: Mod Removal
+    url: LINKS
+    about: Suggest a mod to be removed.
+  - name: Questions and Support
+    url: LINKS
+    about: General questions or support regarding the modpack.
