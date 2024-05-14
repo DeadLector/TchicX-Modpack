@@ -1,6 +1,6 @@
 ---
 name: Mod Update
-about: Suggest an update to an existing mod in the modpack.
+about: Suggest a new mod, update, or change to the modpack
 title: "[MOD REQUEST]"
 labels: Mod Request
 assignees: ''
