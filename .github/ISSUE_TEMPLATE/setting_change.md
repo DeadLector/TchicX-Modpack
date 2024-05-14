@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Setting Details
-- Mod Name: [Enter the name of the mod - or the menu in Minecraft settings.]
+- Mod Name: 
 - Setting Name: [Enter the name of the setting or configuration]
 - Current Value: [Enter the current value of the setting]
 - Suggested Value: [Enter the suggested new value for the setting]
