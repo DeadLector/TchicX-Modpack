@@ -13,10 +13,6 @@ assignees: ''
 ## Steps to Reproduce
 [Describe the steps to reproduce the bug or issue. Be as detailed as possible.]
 
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-
 ## Expected Behavior
 [Describe what you expected to happen.]
 
