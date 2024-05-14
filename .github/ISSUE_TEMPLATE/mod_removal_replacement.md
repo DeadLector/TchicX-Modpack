@@ -8,19 +8,28 @@ assignees: ''
 ---
 
 ## Mod Details
-- Mod Name: [Enter the name of the mod]
-- Mod Link: [Provide a link to the mod's page (e.g., CurseForge, GitHub, Modrinth)]
+- Mod Name: 
 
 ## Choose whichever is appropriate for your issue.
 - [ ] I suggest removing this mod from the modpack.
 - [ ] I suggest replacing this mod with another mod.
 
-### Reason for Removal or Replacement
-[Provide a detailed explanation of why you think this mod should be removed or replaced from the modpack. Include any issues, conflicts, or reasons that justify the removal or replacement.]
+<details>
+<summary>Removal Details</summary>
 
-### Replacement Mod Details (if applicable)
-- Replacement Mod Name: [Enter the name of the replacement mod]
-- Replacement Mod Link: [Provide a link to the replacement mod's page (e.g., CurseForge, GitHub)]
+### Reason for Removal
+[Provide a detailed explanation of why you think this mod should be removed from the modpack. Include any issues, conflicts, or reasons that justify the removal.]
+
+</details>
+
+<details>
+<summary>Replacement Details</summary>
+
+### Replacement Mod Details
+- Replacement Mod Name: 
+- Replacement Mod Link: 
+
+</details>
 
 ## Additional Information
 [Include any additional information or context that might be helpful for considering your suggestion to remove and/or replace the mod.]
