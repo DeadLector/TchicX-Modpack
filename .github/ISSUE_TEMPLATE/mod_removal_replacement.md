@@ -1,7 +1,7 @@
 ---
 name: Mod Removal and Replacement
 about: Suggest a mod to be removed and/or replaced in the modpack
-title: "[MOD REMOVAL/REPLACEMENT]"
+title: "[REMOVAL/REPLACEMENT]"
 labels: Removal/Replacement
 assignees: ''
 
