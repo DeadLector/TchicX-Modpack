@@ -4,5 +4,5 @@ This repository is a place for you to suggest new mods, updates to existing mods
 
 ## Suggestions
 
-If you have any suggestions for mods to add, change, or remove, please open an issue in this repository. Provide as much detail as possible about your suggestion, including:
+If you have any suggestions for mods to add, change, or remove, please open an issue in this repository.
 I appreciate your input and will consider all suggestions to make this modpack the best it can be!
